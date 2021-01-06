@@ -1,4 +1,4 @@
-package com.krishantha.rentcloud.configserver;
+package com.mucahit.rentcloud.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
